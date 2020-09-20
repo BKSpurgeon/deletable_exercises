@@ -1,0 +1,417 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wind",
+				"windowHeight"
+			],
+			[
+				"rec",
+				"rectangleWidth"
+			],
+			[
+				"windo",
+				"windowHeight"
+			],
+			[
+				"win",
+				"windowHeight"
+			],
+			[
+				"D",
+				"Dead"
+			],
+			[
+				"window",
+				"windowWidth"
+			],
+			[
+				"sm",
+				"smartRectangle"
+			],
+			[
+				"final",
+				"finalId"
+			],
+			[
+				"index",
+				"indexedMap"
+			],
+			[
+				"startg",
+				"startingTimeRandomMaxPerLevel"
+			],
+			[
+				"list",
+				"listTotal"
+			],
+			[
+				"sta",
+				"startingTimeOffset"
+			],
+			[
+				"star",
+				"startingTime"
+			],
+			[
+				"ren",
+				"rectangleWidth"
+			],
+			[
+				"slee",
+				"sleep2Seconds"
+			],
+			[
+				"End",
+				"EndLevel"
+			],
+			[
+				"from",
+				"fromInt"
+			],
+			[
+				"start",
+				"startingBoxPosition"
+			],
+			[
+				"Gen",
+				"GenerateRandomRectangle"
+			],
+			[
+				"rectan",
+				"rectangelWithoutId"
+			],
+			[
+				"sma",
+				"SmartRectangle"
+			],
+			[
+				"Gener",
+				"GenerateRandomRectangles"
+			],
+			[
+				"random",
+				"randomRectangle"
+			],
+			[
+				"re",
+				"rectangleGenerator"
+			],
+			[
+				"y",
+				"yPosition"
+			],
+			[
+				"dur",
+				"duration"
+			],
+			[
+				"x",
+				"xPosition"
+			],
+			[
+				"update",
+				"updateZappedElement"
+			],
+			[
+				"inde",
+				"indexNo"
+			],
+			[
+				"anim",
+				"animatedCircle"
+			],
+			[
+				"stop",
+				"stopButton"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"cons",
+				"const"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"elm",
+				"Set Syntax: Elm"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/koshy/Documents/coding/javascript/deletable_exercises"
+	],
+	"file_history":
+	[
+		"/home/koshy/Documents/sum_in_seconds.js",
+		"/home/koshy/Documents/javascript_examples/stopwatch.html",
+		"/home/koshy/Documents/elm-apps/box-game/src/Main.elm",
+		"/home/koshy/Documents/elm-apps/box-game/public/index.html",
+		"/home/koshy/Documents/ruby/test.rb",
+		"/home/koshy/Documents/elm-apps/box-game/README.md",
+		"/home/koshy/Documents/elm-apps/box-game/src/index.js",
+		"/home/koshy/Documents/elm-apps/box-game/start/public/index.html",
+		"/home/koshy/Documents/elm-apps/box-game/elmapp.config.js",
+		"/home/koshy/Documents/elm-apps/box-game/public/manifest.json",
+		"/home/koshy/Documents/willy-wonka-contracts/index.html.erb",
+		"/home/koshy/Documents/willy-wonka-contracts/index.html",
+		"/home/koshy/Documents/willy-wonka-contracts/contract_generation_script.rb",
+		"/home/koshy/.bashrc",
+		"/home/koshy/Documents/javascript_examples/README>md"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rectangleHeight",
+			"startingBoxPosition",
+			"Zapped",
+			"zapped",
+			"RectangleWithoutId",
+			"rectangleWidth",
+			"minimumDuration",
+			"maxDuration",
+			"totalBoxes",
+			"startingTimeRandomMax",
+			"RandomRectangle",
+			"randomRectangle",
+			"randomRectangle : Random.Generator RectangleWithoutId\n",
+			"RectangleWithoutId",
+			"generateRectangle",
+			"convertToRectangleWithId",
+			"\n{-",
+			"initialRectangles",
+			"totalBoxes",
+			"initialRectangles",
+			"RandomRectangle",
+			"randomRectangle",
+			"testList",
+			"_level",
+			"clearLevel",
+			"startingTimeRandomMaxPerLevel",
+			"Model",
+			"initialRectangles",
+			"randomRectangle",
+			"none",
+			"Tick",
+			"startingTimeRandomMax",
+			"maxDurationOfLevel",
+			"Duration",
+			"duration",
+			"Duration",
+			"duration",
+			"maxDurationOfLevel",
+			"clearLevel",
+			"initialRectangles",
+			"hasCrossedTheFinishLine",
+			"rectange",
+			"hasCrossedTheFinishLine",
+			"maxDurationOfLevel",
+			"totalBoxes",
+			"maxDurationOfLevel",
+			"onClick",
+			"initialRectangles",
+			"clearLevel",
+			"current",
+			"endingNumber",
+			"initialRectangles",
+			"maxDurationOfLevel",
+			"initialRectangles",
+			"startingTime",
+			"randomRectangle",
+			"GenerateRandomRectangles",
+			"RandomRectangle",
+			"randomRectangle",
+			"114",
+			"displayRectangle",
+			"encompassedRectangle",
+			"clearLevel",
+			"initialRectangles",
+			"boxHeight",
+			"endTime",
+			"endLevelAfterTimePeriodEnds",
+			"sleep2Seconds",
+			"yPosition",
+			"yRandomMinimum",
+			"smartRectangles",
+			"duration",
+			"xPosition",
+			"model"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 120.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "deletable_js_exercises.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
