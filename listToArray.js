@@ -1,15 +1,20 @@
+
 function listToArray(list, array = []){
-	array = [];
 
-	array.push(list.value);
+	debugger;
 
-	if (list.rest !== null) {		
-		listToArray(list.rest, array);
+	array.push(list.value);	
+
+	if (list.rest !== null) {				
+		listToArray(list.rest, array);		
 	}
 	else
 	{
+		console.log(array)
 		return array;	
 	}
+
+	return array;
 }
 
 module.exports = listToArray;

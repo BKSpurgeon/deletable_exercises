@@ -13,5 +13,5 @@ test('converts a list to an array object', () => {
 				  }
 				};
 
-  	expect(listToArray(list)).toEqual([1, 2, 3].sort());
+  	expect(listToArray(list)).toEqual([1, 2, 3]);  	
 });
